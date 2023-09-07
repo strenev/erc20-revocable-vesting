@@ -1,4 +1,4 @@
-# Token Vesting Contract
+# Token Vesting Contract - Not Audited!
 
 ## Overview
 

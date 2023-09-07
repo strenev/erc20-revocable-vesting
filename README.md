@@ -1,4 +1,4 @@
-# Token Vesting Contract - Not Audited!
+# ERC20 Revocable Vesting
 
 ## Overview
 
